@@ -1,0 +1,9 @@
+# Requirements para los scripts de diagramas de interconexión
+# Instalación: pip install -r requirements.txt
+
+# Lectura de archivos Excel
+pandas>=2.0.0
+openpyxl>=3.1.0
+
+# Procesamiento de datos
+numpy>=1.24.0
