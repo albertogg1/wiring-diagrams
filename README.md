@@ -2,7 +2,8 @@
 
 Script Python para generar diagramas de interconexión en formato Draw.io desde archivos Excel.
 
-[Ejemplo de diagrama generado](pinout.svg)
+![Ejemplo de diagrama generado](pinout.svg)
+
 
 ## 📦 Instalación
 
